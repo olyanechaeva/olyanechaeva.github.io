@@ -4,7 +4,7 @@
     - name: Full Name
       value: Olga Nechaeva
     - name: Languages
-      value: Russian (native), English (near-native), French (advanced), German (intermediate), Mari (novice), Kazakh (novice)
+      value: Russian (native), English (near-native), French (advanced), German (intermediate), Mari (reading proficiency), Kazakh (reading proficiency)
     - name: E-mail
       value: nechaeva@sas.upenn.edu
 
@@ -17,8 +17,8 @@
       description:
         - Comparative Literature and Literary Theory Program
         - PhD Candidate (ABD)
-        - Started in 2018 -  expected completion in June, 2025
-        - "Dissertation: The Gorky Literary Institute: Creative Writing under Socialism"
+        - Started in 2018 -  expected completion in May, 2026
+        - "Dissertation: The Gorky Literary Institute: Creative Writing under Socialism, 1953-1991"
     - title: M.A.
       institution: University of Pennsylvania, Philadelphia, PA
       year: 2020
@@ -48,7 +48,7 @@
   type: time_table
   contents:
     - title: "The Gorky Literary Institute: Creative Writing under Socialism"
-      description: This project examines questions of mutual influence among formal education, creative processes, and literary evolution in the socialist world including case studies from the Russian SFSR, the Buryat ASSR, the Mari ASSR, the Lithuanian SSR, the German Democratic Republic, Mali, Ghana, Ethiopia, and other regions and countries. By analyzing the educational activities of the Gorky Literary Institute (1933-) which produced (or sometimes failed to produce) socialist writers, this project shows how socialist creative writing institutions impacted the formation of the transnational “Soviet Republic of Letters.”
+      description: This dissertation offers the first transnational study of the Gorky Literary Institute, analyzing its role in shaping socialist literature and cultural diplomacy from 1953 to 1991. It explores the mutual influence of formal education, creative practice, and literary evolution in the socialist world, drawing on case studies from the Soviet Union (Moscow, Mari El, Buryatia, Lithuania), East Germany, Mali, Ghana, Ethiopia, and other regions. By examining the Institute’s educational activities aimed at producing socialist writers (and sometimes failing to do so), it demonstrates how socialist creative writing institutions contributed to the formation of a transnational “Soviet Republic of Letters.”
 
 - title: Publications
   type: time_table
